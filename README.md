@@ -93,3 +93,8 @@ After the test run, testNG report will be available under below folder,
     target -> surefire-reports -> index.html
 
 get the absolute path of index.html and enter the url in any desired browser to view the report
+
+#Coverage can be viewed in below path,
+
+    target -> coverage-reports -> index.html
+    
