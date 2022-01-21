@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="2.769" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="2.902" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/viveksundarajan/Dataguard/target/surefire/surefirebooter3638539318480542160.jar /Users/viveksundarajan/Dataguard/target/surefire 2022-01-20T20-25-10_179-jvmRun1 surefire7583720390043286993tmp surefire_07263697561776559772tmp"/>
+    <property name="sun.java.command" value="/Users/viveksundarajan/Dataguard/target/surefire/surefirebooter2779425697044053569.jar /Users/viveksundarajan/Dataguard/target/surefire 2022-01-21T08-59-34_029-jvmRun1 surefire16484577782697894279tmp surefire_04502328041943223254tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/viveksundarajan/Dataguard/target/test-classes:/Users/viveksundarajan/Dataguard/target/classes:/Users/viveksundarajan/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/viveksundarajan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/viveksundarajan/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/viveksundarajan/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/viveksundarajan/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/viveksundarajan/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/viveksundarajan/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/viveksundarajan/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/viveksundarajan/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/viveksundarajan/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/viveksundarajan/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/viveksundarajan/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/viveksundarajan/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/viveksundarajan/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/viveksundarajan/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/viveksundarajan/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/viveksundarajan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/viveksundarajan/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/viveksundarajan/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/Users/viveksundarajan/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar:/Users/viveksundarajan/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/viveksundarajan/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/viveksundarajan/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/viveksundarajan/Dataguard/target/surefire/surefirebooter3638539318480542160.jar"/>
+    <property name="surefire.real.class.path" value="/Users/viveksundarajan/Dataguard/target/surefire/surefirebooter2779425697044053569.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.12+8-LTS-237"/>
@@ -61,5 +61,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="verifyAddAndModifyToDo" classname="org.example.E2ETest" time="0.51"/>
+  <testcase name="verifyAddAndModifyToDo" classname="org.example.E2ETest" time="0.66"/>
 </testsuite>
